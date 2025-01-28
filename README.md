@@ -1,4 +1,4 @@
-# Exhibition 📱🎨  
+# Exhibition 💻 🖼️
 
 **Exhibition** is a blog platform where users can admire and appreciate art. Users can create accounts, save their favorite artworks, and curate their own personal collections.
 
